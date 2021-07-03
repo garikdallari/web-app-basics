@@ -1,0 +1,27 @@
+{
+  "name": "web-app-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garikdallari/web-app-basics.git"
+  },
+  "keywords": [],
+  "author": "Gariks Dallaro <garikdallari@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garikdallari/web-app-basics/issues"
+  },
+  "homepage": "https://github.com/garikdallari/web-app-basics#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
